@@ -1,0 +1,52 @@
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        #region Task1
+       // int num=Sum(8);
+      //  Console.WriteLine(num);
+        
+     //   PrintSum(7);
+        #endregion
+    
+        #region Task2
+       // string name1=Name("Code Academy");
+      //  Console.WriteLine(name1);
+        #endregion
+    }
+    
+    
+   // static int Sum(int number){
+     //   int sum=0;
+      //  for(int i=2; i<number; i++){
+       //     if(i%2==0){
+        //        sum+=i;
+        //    }
+    //    }
+      //  return sum;
+  //  }
+    //static void PrintSum(int number){
+    //    int sum=0;
+    //    for(int i=2; i<number; i++){
+     //       if(i%2==0){
+     //           sum+=i;
+     //       }
+     //   }
+    //    Console.WriteLine(sum);
+    //}
+    //static string Name(string name){
+     //   string result = "";
+
+       // foreach (char c in name)
+       // {
+        //    if (c != ' ')
+        //    {
+         //       result += c;
+         //   }
+       // }
+
+        //return result;
+   // }
+}
